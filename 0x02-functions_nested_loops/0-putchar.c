@@ -6,12 +6,7 @@
  */
 int main(void)
 {
-	/** 
-	 * main - prints the sizes of various type
-	 * Return: 0 if excited properly
-	 */
-
-        _putchar('_');
+       	_putchar('_');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
