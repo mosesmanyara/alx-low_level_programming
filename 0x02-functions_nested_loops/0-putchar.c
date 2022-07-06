@@ -1,11 +1,13 @@
 #include "main.h"
 
-/** main - prints putchar
+/** 
+ * main - prints putchar
  * Return : always 0
  */
 int main(void)
 {
-	/** main - prints the sizes of various type
+	/** 
+	 * main - prints the sizes of various type
 	 * Return: 0 if excited properly
 	 */
 
