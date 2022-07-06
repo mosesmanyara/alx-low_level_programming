@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * printi_sign - prints sign based on character
  * @n: argument passed
