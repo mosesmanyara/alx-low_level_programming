@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- *_add -adds two intergers
+ *add - adds two intergers
+ *Return: interger
  */
-int add(int, int)
+int add(int a, int b)
 {
-	return (0);
+	return (a + b);
 }
 
