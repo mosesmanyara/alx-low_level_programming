@@ -2,7 +2,6 @@
 /**
  * print_square - printing line
  * @size: integer params
- * Return: Always 0
  */
 void print_square(int size)
 {
@@ -22,5 +21,4 @@ void print_square(int size)
 		}
 		_putchar('\n');
 	}
-	return (0);
 }
